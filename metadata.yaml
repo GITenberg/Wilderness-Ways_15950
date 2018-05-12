@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/744
     wikipedia: http://en.wikipedia.org/wiki/William_Joseph_Long_(author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15950#Wilderness-Ways
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Animals-Wild
